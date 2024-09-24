@@ -14,6 +14,12 @@
         <spring-boot.version>2.6.13</spring-boot.version>
     </properties>
     <dependencies>
+
+        <dependency>
+            <groupId>io.github.avidbyte</groupId>
+            <artifactId>netty-websocket-boot-starter</artifactId>
+            <version>1.0.1</version>
+        </dependency>
         <dependency>
             <groupId>io.github.avidbyte</groupId>
             <artifactId>wordshield</artifactId>
