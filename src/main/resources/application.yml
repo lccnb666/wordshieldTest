@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: word-filter
+server:
+  port: 8018
+
+sensitive:
+  word:
+    loadDefault: true
+#    source: file
+#    filePath: /opt/sensitive_word.txt
